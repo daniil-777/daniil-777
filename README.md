@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I am a Computer Scientist from Russia, passionate about Software Developing, Computer Vision and Deep Learning.
+I am a Computer Scientist from Russia, passionate about Software Developing, Computer Vision and Deep Learning. I am keen on AI in the field of medicine, physics, robotics and financial market.
 Here are some bullets about me:
 - 🎓 I graduated with honours from Moscow Institute of Physics and Technology with a Bachelor's degree in Electrical Engineering and Computer Science.
 - 📚 I am currently pursuing a Master in Computer Science at ETH Zürich.
