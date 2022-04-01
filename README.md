@@ -15,8 +15,8 @@
 
 I am a Computer Scientist from Russia, passionate about Software Developing, Computer Vision and Deep Learning. I am keen on AI in the field of medicine, physics, robotics and financial market.
 Here are some bullets about me:
+- 🎓 I graduated from ETH Zurich with a Master's degree in Computational Science and Engineering. During my master I managed to publish once and patent my master thesis
 - 🎓 I graduated with honours from Moscow Institute of Physics and Technology with a Bachelor's degree in Electrical Engineering and Computer Science.
-- 📚 I am currently pursuing a Master in Computer Science at ETH Zürich.
 - 🎲 In my free time, I love going dancing 🕺, swimming 🏊‍♂️ and travelling ✈️.
 
 <!-- #### GitHub Activity
